@@ -1,0 +1,6 @@
+The first thing I noticed immediately is your use of the "or" tool at the start of the fibbonaci_iterative function. 
+In my case I wrote code that does the same thing but is spread in more than 5 lines of code while you use less. This 
+shows that I can still improve more when writing code. I notice the same thing in the factorial_iterative function.
+The range tool used in your code is more efficient than the "while" loop that I used. I believe a great way that I 
+can improve on this is by writing code an dthen attempting to rewrite it multiple times in different ways and noticing
+their differences and in which way would be better to write.
