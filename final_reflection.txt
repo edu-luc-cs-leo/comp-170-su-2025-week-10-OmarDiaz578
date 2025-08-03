@@ -1,3 +1,5 @@
+
+
 I believe that throughout the course I have experienced meaningful growth, both in ability and in how I approach problem-solving. 
 I treated this class not just as a series assignment, but an opportunity to engage deeply with material. This was my first course 
 after changing majors off something I was unhappy with. I've always enjoyed tech and such things I find fascinating. Often times 
@@ -19,3 +21,20 @@ referring back to the live coding repository across all assignments. All of this
 believe this new found passion changed my life.
 
 # Presence and Focus
+
+I submitted all assignments on time and made sure about meeting due dates. 
+
+# Reflection and Growth + Code Quality
+
+After each assignment, I reviewed the assignment solution and compared them to my own. I didn't just look at what I would incorrectly do, 
+but also tried to undertans why I made certain choices and how I oculd improve. For example, when I noticed my code could be written more 
+efficiently using different tactics. I also managed to turn type hints into a habbit which I was struggling to do at first. With my code 
+quality I believe I met the assignment requirements and rules. I reallly like the segmentation strategy that you use and taught us. It 
+makes it way easier to read my code as well as think throughout writing it.
+
+One challenge I encountered very early on was the large amounts of material we learned in the first fe weeks of classes. It was very 
+overwhelming at first but saw that it was a necessity. I began to develop better habits because of this. Instead of getting discouraged
+I dedicated time outside of class to practice and better my skills. I found myself wanting to do and learn more and more out of fun.
+
+Base on the above, I propose A as my final grade.
+
